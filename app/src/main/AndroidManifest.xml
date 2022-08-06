@@ -17,7 +17,8 @@
         android:roundIcon="@mipmap/app_logo_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
-        android:usesCleartextTraffic="true">
+        android:usesCleartextTraffic="true"
+        android:name=".Notify">
         <activity
             android:name="com.vilees.app.SplashActivity"
             android:screenOrientation="portrait">

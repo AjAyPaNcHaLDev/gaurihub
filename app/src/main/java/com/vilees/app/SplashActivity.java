@@ -25,16 +25,18 @@ public class SplashActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
         imageViewLogo=(ImageView) findViewById(R.id.imageViewLogo);
+        Log.e("AJAy","aaaa");
 //
 //        Animation animation= AnimationUtils.loadAnimation(this,R.anim.logoanimation);
 //        imageViewLogo.setAnimation(animation);
         ObjectAnimator objectAnimator=ObjectAnimator.ofPropertyValuesHolder(imageViewLogo,
                 PropertyValuesHolder.ofFloat("scaleX",1.2f),
                 PropertyValuesHolder.ofFloat("scaleY",1.2f));
-        objectAnimator.setDuration(500);
+        objectAnimator.setDuration(2000);
         objectAnimator.setRepeatCount(ValueAnimator.INFINITE);
 objectAnimator.setRepeatMode(ValueAnimator.REVERSE);
 objectAnimator.start();
+
         if (Build.VERSION.SDK_INT >= 21) {
 
             getWindow().getDecorView().setSystemUiVisibility(View.SYSTEM_UI_FLAG_LAYOUT_STABLE | View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN);

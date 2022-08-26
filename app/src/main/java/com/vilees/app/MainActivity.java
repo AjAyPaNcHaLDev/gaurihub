@@ -70,7 +70,7 @@ swipeRefreshLayout=(SwipeRefreshLayout) findViewById(R.id.swipeToRefresh);
         myview.getSettings().setUseWideViewPort(true);
         myview.getSettings().setAppCacheEnabled(true);
         startCookie();
-<<<<<<< HEAD
+
 
         if(Notify.Link!=""){
             myview.loadUrl(Notify.Link, map);
@@ -80,13 +80,6 @@ swipeRefreshLayout=(SwipeRefreshLayout) findViewById(R.id.swipeToRefresh);
 
         }
 
-=======
-        if(!Notify.Link.isEmpty()){
-            myview.loadUrl(Notify.Link, map);
-        }else{
-            myview.loadUrl(PRIVACY_URL, map);
-        }
->>>>>>> c9699a923c6ebe9f9acb4d4daf7bb7ecee91e98b
         myview.addJavascriptInterface(new MyJavaScriptInterface(this), "onCompletePayment");
         myview.setWebViewClient(new WebViewClient() {
 

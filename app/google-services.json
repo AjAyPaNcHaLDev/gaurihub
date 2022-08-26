@@ -1,33 +1,55 @@
 {
   "project_info": {
+<<<<<<< HEAD
     "project_number": "527608172855",
     "project_id": "gaurihub-e0dbf",
     "storage_bucket": "gaurihub-e0dbf.appspot.com"
+=======
+    "project_number": "936536725335",
+    "project_id": "gaurihub-c656e",
+    "storage_bucket": "gaurihub-c656e.appspot.com"
+>>>>>>> c9699a923c6ebe9f9acb4d4daf7bb7ecee91e98b
   },
   "client": [
     {
       "client_info": {
+<<<<<<< HEAD
         "mobilesdk_app_id": "1:527608172855:android:0ad9f3d3945baf4d9f4ab2",
+=======
+        "mobilesdk_app_id": "1:936536725335:android:ffff4546b10e624fba5012",
+>>>>>>> c9699a923c6ebe9f9acb4d4daf7bb7ecee91e98b
         "android_client_info": {
           "package_name": "com.vilees.app"
         }
       },
       "oauth_client": [
         {
+<<<<<<< HEAD
           "client_id": "527608172855-f6d0pt502qelhpnimc9gtj74m5tbrjl6.apps.googleusercontent.com",
+=======
+          "client_id": "936536725335-2nn1nl3uf9j6fk176ciac1e1obu5jrq2.apps.googleusercontent.com",
+>>>>>>> c9699a923c6ebe9f9acb4d4daf7bb7ecee91e98b
           "client_type": 3
         }
       ],
       "api_key": [
         {
+<<<<<<< HEAD
           "current_key": "AIzaSyBrDtfD10C_4w1xZhvgheudJ9Kt61wXiPc"
+=======
+          "current_key": "AIzaSyB21-Ew7UCQOQQquaX_mM1xZ2DMAbKSwkc"
+>>>>>>> c9699a923c6ebe9f9acb4d4daf7bb7ecee91e98b
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
+<<<<<<< HEAD
               "client_id": "527608172855-f6d0pt502qelhpnimc9gtj74m5tbrjl6.apps.googleusercontent.com",
+=======
+              "client_id": "936536725335-2nn1nl3uf9j6fk176ciac1e1obu5jrq2.apps.googleusercontent.com",
+>>>>>>> c9699a923c6ebe9f9acb4d4daf7bb7ecee91e98b
               "client_type": 3
             }
           ]

@@ -11,7 +11,11 @@
         <entry key="..\:/InfoTech/gaurihub (2)/gaurihub/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/InfoTech/gaurihub (2)/gaurihub/app/src/main/res/layout/activity_splash.xml" value="0.18385416666666668" />
         <entry key="..\:/InfoTech/gaurihub (2)/gaurihub/app/src/main/res/mipmap-anydpi-v26/app_logo.xml" value="0.16" />
+<<<<<<< HEAD
         <entry key="..\:/Users/ok/AndroidStudioProjects/gaurihub/app/src/main/res/layout/activity_splash.xml" value="0.1796875" />
+=======
+        <entry key="..\:/Users/ok/AndroidStudioProjects/01/gaurihub1/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+>>>>>>> c9699a923c6ebe9f9acb4d4daf7bb7ecee91e98b
       </map>
     </option>
   </component>

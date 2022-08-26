@@ -71,7 +71,14 @@ swipeRefreshLayout=(SwipeRefreshLayout) findViewById(R.id.swipeToRefresh);
         myview.getSettings().setAppCacheEnabled(true);
         startCookie();
 
-        myview.loadUrl(PRIVACY_URL, map);
+        if(Notify.Link!=""){
+            myview.loadUrl(Notify.Link, map);
+
+        }else{
+            myview.loadUrl(PRIVACY_URL, map);
+
+        }
+
         myview.addJavascriptInterface(new MyJavaScriptInterface(this), "onCompletePayment");
         myview.setWebViewClient(new WebViewClient() {
 

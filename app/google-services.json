@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527608172855",
+    "project_id": "gaurihub-e0dbf",
+    "storage_bucket": "gaurihub-e0dbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527608172855:android:0ad9f3d3945baf4d9f4ab2",
+        "android_client_info": {
+          "package_name": "com.vilees.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527608172855-f6d0pt502qelhpnimc9gtj74m5tbrjl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrDtfD10C_4w1xZhvgheudJ9Kt61wXiPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527608172855-f6d0pt502qelhpnimc9gtj74m5tbrjl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
